@@ -1,4 +1,8 @@
 homepage: "https://www.luratic.com"
 documentation: "https://www.luratic.com/posts/templates/tags/lucky-orange/"
 versions:
-- sha: 2d94b9b74da844e5efdf536977af2b861da92b9e
+  # Latest version
+  - sha: a8f1e8f16f123a34f1012f0cbf29faec3c300c36
+    changeNotes: Improve and update documentation.
+  # Older versions  
+  - sha: 2d94b9b74da844e5efdf536977af2b861da92b9e
